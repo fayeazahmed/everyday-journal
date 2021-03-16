@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/everyday-journal/static/css/main.e2c8229c.chunk.css",
+    "main.js": "/everyday-journal/static/js/main.b5e00cf4.chunk.js",
+    "main.js.map": "/everyday-journal/static/js/main.b5e00cf4.chunk.js.map",
+    "runtime-main.js": "/everyday-journal/static/js/runtime-main.dd66df6d.js",
+    "runtime-main.js.map": "/everyday-journal/static/js/runtime-main.dd66df6d.js.map",
+    "static/css/2.d22f252f.chunk.css": "/everyday-journal/static/css/2.d22f252f.chunk.css",
+    "static/js/2.ff115b34.chunk.js": "/everyday-journal/static/js/2.ff115b34.chunk.js",
+    "static/js/2.ff115b34.chunk.js.map": "/everyday-journal/static/js/2.ff115b34.chunk.js.map",
+    "index.html": "/everyday-journal/index.html",
+    "static/css/2.d22f252f.chunk.css.map": "/everyday-journal/static/css/2.d22f252f.chunk.css.map",
+    "static/css/main.e2c8229c.chunk.css.map": "/everyday-journal/static/css/main.e2c8229c.chunk.css.map",
+    "static/js/2.ff115b34.chunk.js.LICENSE.txt": "/everyday-journal/static/js/2.ff115b34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd66df6d.js",
+    "static/css/2.d22f252f.chunk.css",
+    "static/js/2.ff115b34.chunk.js",
+    "static/css/main.e2c8229c.chunk.css",
+    "static/js/main.b5e00cf4.chunk.js"
+  ]
+}
