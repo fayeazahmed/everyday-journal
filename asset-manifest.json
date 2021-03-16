@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/everyday-journal/static/css/main.e2c8229c.chunk.css",
-    "main.js": "/everyday-journal/static/js/main.b5e00cf4.chunk.js",
-    "main.js.map": "/everyday-journal/static/js/main.b5e00cf4.chunk.js.map",
+    "main.js": "/everyday-journal/static/js/main.58a6819f.chunk.js",
+    "main.js.map": "/everyday-journal/static/js/main.58a6819f.chunk.js.map",
     "runtime-main.js": "/everyday-journal/static/js/runtime-main.dd66df6d.js",
     "runtime-main.js.map": "/everyday-journal/static/js/runtime-main.dd66df6d.js.map",
     "static/css/2.d22f252f.chunk.css": "/everyday-journal/static/css/2.d22f252f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.d22f252f.chunk.css",
     "static/js/2.ff115b34.chunk.js",
     "static/css/main.e2c8229c.chunk.css",
-    "static/js/main.b5e00cf4.chunk.js"
+    "static/js/main.58a6819f.chunk.js"
   ]
 }
