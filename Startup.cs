@@ -62,7 +62,7 @@ namespace EverydayJournal
                         ValidIssuer = Configuration.GetSection("Jwt")["JwtIssuer"],
                         ValidAudience = Configuration.GetSection("Jwt")["JwtAudience"],
                         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:JwtKey"])),
-                        ClockSkew = TimeSpan.Zero // remove delay of token when expire
+                        ClockSkew = TimeSpan.Zero
                     };
                 });
             services.AddControllers();
