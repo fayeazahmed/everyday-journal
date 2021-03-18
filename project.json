@@ -1,0 +1,18 @@
+{
+  "Jwt": {
+    "JwtKey": "My_JWT_Secret_Of_128_bits",
+    "JwtIssuer": "https://everydayjournal.herokuapp.com/",
+    "JwtAudience": "*"
+  },
+  "ConnectionStrings": {
+    "DefaultConnection": "Username=wdpqmwguojvhqr;Password=abd708dff7aa233bfac543ce68775eba2eac3e08551ed39d6d787a66c75c462e;Host=ec2-3-224-251-47.compute-1.amazonaws.com;Port=5432;Database=dbk7ofn95r3g6f;sslmode=Require;Trust Server Certificate=true"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
